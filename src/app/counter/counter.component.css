@@ -1,0 +1,29 @@
+body {
+    margin: 0;
+    padding: 0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    min-height: 120vh;
+    background-image: url('https://i.pinimg.com/originals/1d/65/cc/1d65cc9ce3375d8fe3a993b90a7d41b6.jpg');
+    background-size: cover;
+    background-repeat: no-repeat;
+  }
+
+  .container {
+    text-align: center;
+    background-color: rgba(255, 255, 255, 0.704);
+    padding: 20px;
+    font-size: 20px;
+    border-radius: 10px;
+    box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.3);
+  }
+
+  button {
+    padding: 10px 20px;
+    font-size: 16px;
+    margin: 10px;
+    border-radius: 20px;
+    font-size: 20px;
+    background-color: rgba(168, 170, 173, 0.489);https://64.media.tumblr.com/ce612f92b6cf9460d79ca0283fd2a71d/tumblr_nfgjw126kk1rcqe2qo1_540.gif
+  }
